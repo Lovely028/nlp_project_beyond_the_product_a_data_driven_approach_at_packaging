@@ -1,0 +1,21 @@
+# Virtual environments
+venv/
+env/                # Alternative virtual env names
+*.pyc               # Compiled Python files
+__pycache__/        # Python cache files
+
+# Large or generated files
+*.log               # Exclude log files if generated
+
+# Sensitive or environment-specific files
+.env                # Exclude environment variables
+*.env               # Catch any env files
+
+# OS-generated files
+.DS_Store           # macOS-specific
+Thumbs.db           # Windows-specific
+
+# IDE-specific files
+*.vscode/           # VS Code settings (optional, keep if shared config is useful)
+*.idea/             # PyCharm settings
+*.ipynb_checkpoints/ # Jupyter Notebook checkpoints

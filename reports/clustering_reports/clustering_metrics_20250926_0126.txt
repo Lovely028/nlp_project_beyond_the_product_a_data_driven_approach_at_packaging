@@ -1,0 +1,40 @@
+--- Clustering Metrics ---
+
+Main Cluster Size Distribution:
+Cluster 0: 15195 reviews
+Cluster 1: 9477 reviews
+Cluster 2: 2424 reviews
+Cluster 3: 294 reviews
+Cluster 4: 70 reviews
+
+Top Keywords per Cluster:
+Cluster 0: ['bottle', 'not', 'product', 'wa', 'like']
+Cluster 1: ['box', 'wa', 'not', 'one', 'pill']
+Cluster 2: ['tape', 'ear', 'mask', 'not', 'wa']
+Cluster 3: ['scale', 'monitor', 'reading', 'user', 'bp']
+Cluster 4: ['pill', 'crush', 'cut', 'cutter', 'crusher']
+
+Cluster Purity:
+  issue_category:
+    Cluster 0: 0.2002
+    Cluster 1: 0.4034
+    Cluster 2: 0.2554
+    Cluster 3: 0.4388
+    Cluster 4: 0.3857
+  packaging_type:
+    Cluster 0: 0.6678
+    Cluster 1: 0.5863
+    Cluster 2: 0.1885
+    Cluster 3: 0.6224
+    Cluster 4: 0.1000
+  product_category:
+    Cluster 0: 0.1033
+    Cluster 1: 0.1128
+    Cluster 2: 0.4864
+    Cluster 3: 0.1395
+    Cluster 4: 0.0714
+
+Chi-Square Test Results:
+packaging_type: chi2=9508.67, p=0.0000
+issue_category: chi2=1228.37, p=0.0000
+product_category: chi2=1169.86, p=0.0000

@@ -1,0 +1,53 @@
+{
+    "packaging_issues": {
+        "Damaged packaging": {
+            "summary": "Several reviews mentioned receiving products with damaged or smashed packaging, affecting the usability of the product.",
+            "count": 5,
+            "percent": 10.42
+        },
+        "Missing items": {
+            "summary": "Some reviews reported missing items or empty boxes upon delivery.",
+            "count": 2,
+            "percent": 4.17
+        },
+        "Wrong items": {
+            "summary": "A few reviews noted receiving incorrect items or products not as described.",
+            "count": 2,
+            "percent": 4.17
+        }
+    },
+    "packaging_types": {
+        "Bottles & jars": {
+            "summary": "Reviews frequently mentioned issues with bottles, such as broken spray nozzles or bottles not functioning as intended.",
+            "count": 4,
+            "percent": 8.33
+        },
+        "Boxes": {
+            "summary": "Several reviews highlighted problems with boxes, including damaged or incorrect packaging.",
+            "count": 5,
+            "percent": 10.42
+        },
+        "Bags & pouches": {
+            "summary": "Some reviews mentioned issues with bags, such as misprinted designs or faulty handles.",
+            "count": 2,
+            "percent": 4.17
+        }
+    },
+    "product_categories": {
+        "Personal care": {
+            "summary": "Many reviews were related to personal care items, including essential oils, sprays, and hygiene products.",
+            "count": 10,
+            "percent": 20.83
+        },
+        "Household items": {
+            "summary": "Several reviews discussed household products, such as cleaning supplies and storage solutions.",
+            "count": 8,
+            "percent": 16.67
+        },
+        "Health & wellness": {
+            "summary": "A number of reviews focused on health and wellness products, including supplements and fitness equipment.",
+            "count": 6,
+            "percent": 12.50
+        }
+    }
+}
